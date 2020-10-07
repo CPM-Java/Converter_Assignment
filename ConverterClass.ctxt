@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ConverterClass
+comment0.text=\r\n\ Using\ system.in\ and\ object(s)\r\n\r\n\ @author\ grayknight\ CPM\ 2017\r\n\ @version\ 9/14/2017\r\n
+comment1.params=where
+comment1.target=ConverterClass(java.lang.String)
+comment1.text=\ Constructor\r\n\ @param\ \ where\ \ a\ String\ describing\ the\ travel\ destination\r\n
+comment2.params=tInF
+comment2.target=double\ tempConverter(double)
+comment2.text=\r\n\ Converts\ temperature\ in\ degrees\ Fahrenheit\ to\ Celsius\r\n\r\n\ @param\ \ tInF\ \ a\ double\ in\ degrees\ Fahrenheit\r\n\ @return\ \ \ \ the\ equivalent\ temperature\ in\ degrees\ Celsius\r\n
+comment3.params=dInM
+comment3.target=double\ distConverter(double)
+comment3.text=\r\n\ Converts\ distance\ in\ miles\ to\ kilometers\r\n\r\n\ @param\ \ dInM\ \ a\ double\ distance\ in\ miles\r\n\ @return\ \ \ \ the\ equivalent\ distance\ in\ kilometers\r\n
+comment4.params=mInG
+comment4.target=double\ massConverter(double)
+comment4.text=\r\n\ Converts\ weight\ in\ ounces\ to\ grams\ of\ mass\r\n\r\n\ @param\ \ wInO\ \ a\ weight\ in\ ounces\r\n\ @return\ \ \ \ the\ equivalent\ mass\ in\ grams\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ @return\ \ \ \ a\ statement\ about\ the\ location\r\n
+numComments=6
